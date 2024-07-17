@@ -2,8 +2,28 @@
 
 Bem-vindo ao repositório de Guias e Cronogramas de Estudos para diversas áreas da tecnologia. Inclui checklists, cronogramas e recursos para desenvolver habilidades em várias áreas como gestão de comunidades, estratégias de engajamento, comunicação, liderança, tecnologia e muito mais. Ideal para aprimorar competências e se destacar em diferentes campos profissionais.
 
+## Como Usar
 
-## Conteúdo
+1. **Escolha a Área de Interesse**: Navegue pelo conteúdo e selecione o guia de estudo da área que deseja aprimorar.
+2. **Siga os Checklists**: Utilize os checklists para garantir que todas as habilidades essenciais sejam cobertas.
+3. **Acompanhe o Cronograma**: Siga o cronograma de estudos sugerido para uma abordagem estruturada.
+4. **Utilize os Recursos**: Acesse os recursos recomendados para aprofundar o conhecimento.
+
+## Faça um Fork do Projeto
+
+Recomendamos que você faça um fork deste repositório para seu próprio GitHub. Dessa forma, você pode:
+
+- **Personalizar seu Estudo**: Adapte os guias e cronogramas para atender às suas necessidades específicas.
+- **Fazer Checklists**: Marque as habilidades e tarefas concluídas à medida que avança nos seus estudos.
+- **Usar como Bloco de Notas**: Utilize comentários e commits para anotar seu progresso, insights e pontos importantes.
+- **Fixar Conhecimento**: Faça commits regulares com notas de estudo para reforçar o aprendizado.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com sugestões de melhorias, novos conteúdos ou correções.
+
+
+# Conteúdo
 
 ### Community Manager [Guia/Cronograma Completo](guias/Community-Manager.md)
 - **Checklist de Habilidades**: Hard e Soft Skills necessárias
@@ -31,16 +51,7 @@ Bem-vindo ao repositório de Guias e Cronogramas de Estudos para diversas áreas
 - **HTML/CSS**: Criação e estilização de páginas web
 - **JavaScript**: Programação interativa e frameworks front-end
 
-## Como Usar
 
-1. **Escolha a Área de Interesse**: Navegue pelo conteúdo e selecione o guia de estudo da área que deseja aprimorar.
-2. **Siga os Checklists**: Utilize os checklists para garantir que todas as habilidades essenciais sejam cobertas.
-3. **Acompanhe o Cronograma**: Siga o cronograma de estudos sugerido para uma abordagem estruturada.
-4. **Utilize os Recursos**: Acesse os recursos recomendados para aprofundar o conhecimento.
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com sugestões de melhorias, novos conteúdos ou correções.
 
 ## Licença
 
